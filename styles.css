@@ -90,8 +90,12 @@ body {
 .login {
     background: #ccc;
     border: none;
-    color: #614949ec;
+    color: black;
     padding: 10px 10px;
     text-decoration: none;
     border-radius: 6px;
+}
+
+.login:hover {
+    background: rgb(63, 57, 55);
 }
